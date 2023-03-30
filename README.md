@@ -1,6 +1,8 @@
 # The 3rd Annual Deep Learning Workshop presented by the OSCT at Marquette University: March 24th, 2023
 
-## Transfer Learning in Computer Vision and Natural Language Processing
+## Please Check the Lab website for the updated content: [<strong>XDI Lab workshop page</strong>](https://github.com/xdilab/OSCT_Marquette_workshop_2023) 
+
+### Transfer Learning in Computer Vision and Natural Language Processing
 
 
 Welcome to the 3rd Annual Deep Learning Workshop presented by The OSCT at Marquette University! 
